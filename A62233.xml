@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sham-indictment quash'd being a true account of what passed at the Old-Baily the 20th of May, 1681, when the minister of Alhallows-Barkin, London, answered to Mr. Whitaker's indictment : together with some just reflections upon a libel called, The birth and burning of St. Michael, &amp;c., lately published / by a lover of the loyal parish of Barkin.</title>
+            <author>Sanders, Jonathan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62233</idno>
+            <idno type="STC">Wing S747</idno>
+            <idno type="STC">ESTC R8555</idno>
+            <idno type="EEBO-CITATION">13247513</idno>
+            <idno type="OCLC">ocm 13247513</idno>
+            <idno type="VID">98671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98671)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 438:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sham-indictment quash'd being a true account of what passed at the Old-Baily the 20th of May, 1681, when the minister of Alhallows-Barkin, London, answered to Mr. Whitaker's indictment : together with some just reflections upon a libel called, The birth and burning of St. Michael, &amp;c., lately published / by a lover of the loyal parish of Barkin.</title>
+                  <author>Sanders, Jonathan.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Tayler,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Jonathan Sanders. Cf. BM.</note>
+                  <note>The "minister of Alhallows-Barkin" is Dr. Hicks. Cf. BM.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Advertisement on p. 3.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherman, Edmund, 17th cent. --  Birth and burning of the image called S. Michael.</term>
+               <term>Hickes, George, 1642-1715.</term>
+               <term>Idols and images --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98671:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb n="1" facs="tcp:98671:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>THE Sham-Indictment QUASH'D, BEING A True Account of what paſſed at the <hi>Old-Baily</hi> 
+               <date>the 20<hi rend="sup">th</hi> of <hi>May,</hi> 1681.</date> when the Miniſter of <hi>Alhallows-Barkin, London,</hi> Anſwered to M<hi rend="sup">r</hi> 
+               <hi>Whitaker</hi>'s Indictment.</head>
+            <head type="sub">TOGETHER WITH Some Juſt Reflections upon a Libel, called, <hi>The Birth and Burning of St.</hi> Michael, &amp;c. Lately Publiſhed.</head>
+            <byline>By a Lover of the Loyal Pariſh of <hi>Barkin.</hi>
+            </byline>
+            <epigraph>
+               <q>
+                  <bibl>ROM. IV. 15.</bibl>
+                  <p>Where no Law is, there is no Tranſgreſſion.</p>
+               </q>
+            </epigraph>
+            <opener>
+               <dateline>At the COURT in the <hi>Old-Baily,</hi> 
+                  <date>
+                     <hi>May</hi> 20. 1681.</date>
+               </dateline>
+            </opener>
+            <p>THIS Day Dr. <hi>Hicks</hi> Miniſter of <hi>Alhallows-Barkin, London,</hi> ap<g ref="char:EOLhyphen"/>peared before the Court to Anſwer that Idle and Frivolous In<g ref="char:EOLhyphen"/>dictment which was brought in and found againſt him, for Suf<g ref="char:EOLhyphen"/>fering a Figure, with a Trumpet in one hand, and This In<g ref="char:EOLhyphen"/>ſcription upon the Breaſt of it, <hi>Ariſe ye dead and come to Judgment,</hi> to ſtand and remain undefaced over the Communion Table.</p>
+            <p>Mr. <hi>Genner,</hi> the Doctors Councel, told the Court, that this Figure was firſt ſet up upon the Hand-Dial at the Weſt end of the Church, be<g ref="char:EOLhyphen"/>tween the Figures of <hi>Time</hi> and <hi>Death,</hi> in the Year 1659. And that it re<g ref="char:EOLhyphen"/>mained there till about 6 Years ago; when the Hand-dial upon which it ſtood was brought forward, and ſet over the New Organ, which hin<g ref="char:EOLhyphen"/>dred it from being ſeen by the Miniſter and Congregation. He alſo told
+<pb n="2" facs="tcp:98671:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->
+them that it had not the ſhape of St. <hi>Michael,</hi> nor was ever known or reputed to be the Image of that, or any other Saint. And theſe things, which could have been proved upon Oath, being premiſed; he ſaid he conceived there was no Law (unleſs they meant an Ordinance of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> for deſtroying and prohibiting all Pictures and Images in Churches made in <hi>May</hi> 1644.) upon which to Ground this Indictment. Nor any Semblance of Law, but what was found in 3. or 4. of <hi>Edw.</hi> VI. <hi>chap.</hi> 10. to which the Indictment ſeemed to direct. And thereupon moved that the Indictment, and that Statute might both be read.</p>
+            <p>The Sum of the Indictment was this, <hi>That he,</hi> (and the other Per<g ref="char:EOLhyphen"/>ſons Indicted) <hi>being Superſtitiouſly affected, and diſregarding the Laws of this Realm, did ſuffer the Graven Image of St.</hi> Michael <hi>to ſtand and remain undeſtroyed over the Communion-Table, to the great danger of Introducing Idolatry and Superſtitious Worſhip among the Kings Liege-Subjects, againſt the Law in this Caſe provided, and the Peace of our Soveraign Lord the King, his Crown, and Dignity,</hi> &amp;c.</p>
+            <p>The Indictment being read, that part of the Statute which concern<g ref="char:EOLhyphen"/>ed the Removal of Popiſh Images; and the Juriſdiction before whom the Offenders were to be Tryed, was alſo read. The Sum of which is contained in theſe words. <hi>And be it further Enacted—that if any Per<g ref="char:EOLhyphen"/>ſon or Perſons—that now have or hereafter ſhall have in his, her, or their cuſtody—any Images—which heretofore have been taken out of any Church or Chappel, or yet ſtand in any Church or Chappel, and do not before the laſt day of</hi> June <hi>next enſuing, deface and deſtroy, or cauſe to be defaced and deſtroyed the ſame Images, and every of them—then,</hi> &amp;c.—<hi>And for the better Exe<g ref="char:EOLhyphen"/>cution of the ſaid Act be it Enacted—that as well Juſtices of Aſſize in their Circuits, as Juſtices of Peace within the limits of their Commiſſion in Ge<g ref="char:EOLhyphen"/>neral Seſſions, ſhall have full Power and Authority to inquire of the Offences aforeſaid, and to hear and determine the ſame, in ſuch form as they may do in other ſuch like Caſes.</hi>
+            </p>
+            <p>Theſe Clauſes being read, the Court (when Four of the Judges were preſent) after demand made, if any were there to appear for the King, forthwith quaſh'd or null'd the Indictment. Becauſe the mat<g ref="char:EOLhyphen"/>ter or pretended offence contained in it was no violation of that Law. And becauſe that Court, before whom the Doctor was Indicted (be<g ref="char:EOLhyphen"/>ing a Commiſſion of <hi>Oyer</hi> and <hi>Terminer</hi>) had no Power or Authority to Hear and Determine Offences againſt that Statute, which were to be Tryed by Juſtices of Aſſize, or Juſtices of the Peace.</p>
+            <p>After all Mr. <hi>Recorder</hi> told the Councel, that his Motion had taken them up a great deal of time, but (ſaith he) if this had been moved before the Judges had come in, I would preſently have told you that there was no Law for the Indictment, as I ſaid before; meaning when Mr. <hi>Sherman,</hi> the Upper Church-Warden, privily took down the Fi<g ref="char:EOLhyphen"/>gure, and conveyed it to the <hi>Old-Baily;</hi> where tho' he pleaded Guilty to this Indictment, and unawares ſurprizd Mr. <hi>Hunter,</hi> a moſt Loyal and Honeſt Gentleman, into a Concurrence with him to do the ſame, yet the Court would not ſuffer them to be Fined as that Statute directs.</p>
+            <pb n="3" facs="tcp:98671:2"/>
+            <!-- PDF PAGE 23 -->
+            <p>Whereas in This Relation it is ſaid, that upon the Demand being made, no Body appeared for the King; that it may not be thought the Doctors appearance was a Surprize, the Reader may take notice that he appeared upon this Indictment the Seſſions before, and plead<g ref="char:EOLhyphen"/>ed not Guilty, and bound himſelf to the King, in a Bond of 40 <hi>l.</hi> to Traverſe the Indictment at this.</p>
+            <p>This is the Sum of what then paſſed, and it is publiſhed for the ſecurity of all Cathedral, Collegiate, and Pariſh-Churches, which might otherwiſe upon the account of their Ornaments be obnoxious to the malice of thoſe, who pretend to abhor the very ſhadow of Idols and Idolatry, that they may more plauſibly commit Sacriledge, and other Iniquities, and if any ſuch be yet deſirous to trouble the Clergy, or others, with any more ſuch <hi>Sham-Indictments,</hi> they cannot want occaſion in moſt of the Pariſh-Churches of this City, as well as ſome of his Majeſties Chappels Royal, and ſome Chappels of Inns-of-Court: More particularly in <hi>Barkin</hi> Church, which at the top is ſo ſet about with Gilded Figures called <hi>Seraphims,</hi> (which are the higheſt Order of Angels,) that it is almoſt impoſſible to kneel, or bow in it, at Prayers or Sacrament, but under, or before one or other of them; nay, there is one ſet up at the Eaſt end of the Church, plum-over the Communion Table, towards which the late Upper Church-Warden, as many of the Pariſh will teſtifie, hath frequently Bow'd without any Scruple of Conſcience, while the Figure, miſcal<g ref="char:EOLhyphen"/>led St. <hi>Michael</hi> in the Indictment, ſtood thereupon.</p>
+         </div>
+         <div type="notice">
+            <head>An ADVERTISEMENT.</head>
+            <p>WHereas there is lately publiſhed by <hi>Richard Janeway,</hi> a Libel<g ref="char:EOLhyphen"/>lous Pamphlet, with this Title, <hi>The Birth and Burning of the Image called St.</hi> Michael; <hi>Containing the Subſtance of a Narrative given into the Veſtry of All Saints</hi> Barkin, London, <hi>by Mr.</hi> Edm. Sherman, <hi>late <g ref="char:V">Ʋ</g>pper Church-Warden of the ſame:</hi> This is to Certifie all whom it may concern, that the ſaid Narrative was read in the Veſtry, and that Dr. <hi>Hickes</hi> the Miniſter, and Mr. <hi>Hunter,</hi> the preſent Upper Church-Warden, with many other Gentlemen met in the Veſtry, did ſome or other of them, Charge the ſaid Mr. <hi>Sherman,</hi> from Paragraph to Paragraph, with many Falſities, Prevarications, and unjuſt Aſper<g ref="char:EOLhyphen"/>ſions, to which the ſaid Mr. <hi>Sherman</hi> could make little or no reply, and that after the reading of it, they declared before his face, and or<g ref="char:EOLhyphen"/>dered it to be Written down, that it might be Regiſtred, <hi>That it was their Opinion, that his Narrative was a Rude, Scurrilous, and Inſolent paper, and Aſſerted that it had very many Falſities, and Prevarications in it, and that it highly tended to the Diſhonour of the Eſtabliſhed Proteſtant Religion, and was a Libel upon the whole Pariſh, and that it ſhould be re<g ref="char:EOLhyphen"/>ſerved
+<pb n="4" facs="tcp:98671:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 24 -->
+for further conſideration,</hi> and in the mean time deſired the Doctor to keep it.</p>
+            <p>This the Doctor, and Gentlemen of the Veſtry, who know the mat<g ref="char:EOLhyphen"/>ters of fact contained in that Libel, declared before Mr. <hi>Shermans</hi> face, and are ready to teſtifie upon all occaſions: And I leave it to all Im<g ref="char:EOLhyphen"/>partial men, to determine, whether Twenty men or more, all of <hi>
+                  <g ref="char:V">Ʋ</g>N<g ref="char:EOLhyphen"/>BROKEN</hi> Reputations are to be believed, or Mr. <hi>Sherman</hi> alone. And as to the Impudence, Prophaneneſs, and Scurrility of the Libel, let every modeſt and ſerious Reader be judge.</p>
+            <epigraph>
+               <bibl>Zeph. 4.5.</bibl>
+               <q>
+                  <p>The unjuſt knoweth no ſhame.</p>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Tayler,</hi> 1681.</p>
+            <pb facs="tcp:98671:3"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </back>
+   </text>
+</TEI>
